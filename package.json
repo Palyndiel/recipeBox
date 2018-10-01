@@ -1,5 +1,5 @@
 {
-  "name": "myRecipeBox",
+  "name": "recipeBox",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -18,6 +18,6 @@
     "eject": "react-scripts eject"
   },
   "engines": {
-  	"node": "8.12.0"
+    "node": "8.12.0"
   }
 }
